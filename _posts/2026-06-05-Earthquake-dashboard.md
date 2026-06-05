@@ -4,9 +4,28 @@ title: Earthquake Tracking Dashboard Using Tableau
 image: "img/posts/Earthquake_dashboard.jpg"
 tags: [Tableau, Data Viz]
 ---
+<style>
+.tableau-embed {
+  width: 100%;
+  max-width: 1090px;
+  margin: 0 auto;
+}
 
-This is a Tableau Dashboard that tracks global Earthquake activity across a 30-day period
+.tableau-embed iframe {
+  width: 100%;
+  min-height: 900px;
+  border: none;
+}
+</style>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthquakeAnalysis_17806067540130/EarthquakeTracker?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" width = '1090' height = '900'></iframe>
+This is a Tableau Dashboard that tracks global earthquake activity across a 30-day period.
 
-
+<div class="tableau-embed">
+  <iframe
+    src="https://public.tableau.com/views/EarthquakeAnalysis_17806067540130/EarthquakeTracker?:showVizHome=no&:embed=true"
+    width="100%"
+    height="900"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
