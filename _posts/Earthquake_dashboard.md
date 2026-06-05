@@ -3,7 +3,7 @@ CODE BLOCK START
 ---
 layout: post
 title: Earthquake Tracking Dashboard Using Tableau
-image: "/posts/tableau-map-image.png"
+image: "/posts/Earthquake_dashboard.jpg"
 tags: [Tableau, Data Viz]
 ---
 
