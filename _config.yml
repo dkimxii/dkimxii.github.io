@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Daniel Kim
-description: "Hi I'm Daniel, and I'm an aspiring Data Analyst.  My portfolio focuses on interesting projects I've recently undertaken. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Daniel, and I'm a recent graduate from University of Alberta.  My portfolio focuses on interesting projects I've recently undertaken. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,13 +17,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Edmonton, AB"
-resume_url: /docs/Daniel_Kim_Resume_060926.pdf
+resume_url: /docs/Daniel_Kim_Resume_071626.pdf
 avatar_image: /img/self_crop.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedin.com/in/danielkim03" # Add your linkedln handle
-github: "https://github.com/dkimxii"  # Add your github handle
+linkedln: "https://linkedin.com/in/danielkim03" 
+github: "https://github.com/eunoia03"  
 
 paginate: 6
 paginate_path: "/page/:num"
